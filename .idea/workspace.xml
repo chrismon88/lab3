@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a57ec01f-d089-4c0e-bb49-cdaf38e30523" name="Default Changelist" comment="" />
+    <list default="true" id="a57ec01f-d089-4c0e-bb49-cdaf38e30523" name="Default Changelist" comment="Sorry for the delay. Still working the conference registration.">
+      <change afterPath="$PROJECT_DIR$/conference-styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conferenceReg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favoriteProgram.html" beforeDir="false" afterPath="$PROJECT_DIR$/favoriteProgram.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,25 +63,65 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600364015476</updated>
-      <workItem from="1600364016582" duration="17782000" />
+      <workItem from="1600364016582" duration="18348000" />
+      <workItem from="1600483907510" duration="176000" />
+      <workItem from="1600772900858" duration="62000" />
+      <workItem from="1601516910024" duration="1753000" />
+      <workItem from="1601582242471" duration="9177000" />
+      <workItem from="1601662695007" duration="781000" />
     </task>
+    <task id="LOCAL-00001" summary="Sorry for the delay. Still working the conference registration.">
+      <created>1600476613654</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600476613654</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sorry for the delay. Still working the conference registration." />
+    <option name="LAST_COMMIT_MESSAGE" value="Sorry for the delay. Still working the conference registration." />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1600475722597">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1601662783926">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1600475722597" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600476464359">
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601662783926" />
+    <state x="647" y="310" key="Github.ShareDialog" timestamp="1600477012806">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1600476464359" />
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600476456032">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1600477012806" />
+    <state x="2371" y="183" key="Vcs.Push.Dialog.v2" timestamp="1601615551166">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1600476664670" />
+    <state x="2371" y="183" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601615551166" />
+    <state x="2653" y="411" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601615546876">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1600476456032" />
+    <state x="2653" y="411" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601615546876" />
+    <state x="0" y="0" width="1550" height="882" key="dock-window-1" timestamp="1601615799143">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="1550" height="882" key="dock-window-1/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601615799143" />
   </component>
 </project>
